@@ -1,2 +1,2 @@
 # calculadora-apple
-Calculadora desarollada con HTML/CSS, estilos tipo componentes con Bootstrap 4 y JavaScript.
+Calculadora desarollada con HTML, CSS, JavaScript. Aparte de componentes de estilos con Bootstrap 4.
